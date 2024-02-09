@@ -4,7 +4,7 @@ import { InfoCard } from "./components/InfoCard";
 
 function App() {
   return (
-    <main className="grid gap-12 bg-blue-600 pt-10">
+    <main className="grid gap-12 bg-blue-600 px-4 pt-10">
       <Header />
       <Search />
       <InfoCard />

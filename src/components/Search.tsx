@@ -4,9 +4,9 @@ const Search = () => {
       <input
         type="text"
         placeholder="Search for any IP address or domain"
-        className="rounded rounded-br-none rounded-tr-none px-4 py-2"
+        className="flex-[0_1_600px] rounded-lg rounded-br-none rounded-tr-none px-4 py-4"
       />
-      <button className="rounded rounded-bl-none rounded-tl-none bg-sky-950 px-4 py-2">
+      <button className="rounded-lg rounded-bl-none rounded-tl-none bg-sky-950 px-4 py-2">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
